@@ -18,6 +18,14 @@ This `.emacs` config contains the most basic settings to start working. Some of 
 * saves opened files history 
 * hides menu and icon bar
 * loads [cyberpunk-transparent-theme](https://github.com/lvm/cyberpunk-theme.el)
+  
+## cyberpunk-transparent
+
+Chances are you don't have this theme installed (and you won't find it on MELPA).  
+Try this:
+```
+$ wget https://raw.githubusercontent.com/lvm/cyberpunk-theme.el/master/cyberpunk-transparent-theme.el -O $HOME/.emacs.d/themes/cyberpunk-transparent-theme.el
+```
 
 ## something missing?
 
