@@ -23,6 +23,11 @@ This `.emacs` config contains the most basic settings to start working. Some of 
 
 Try [here](https://github.com/lvm/dot-emacs/issues) or [here](https://github.com/lvm/dot-emacs/pulls)
 
+### optionals
+
+* [blacken](https://github.com/pythonic-emacs/blacken) + [black](https://github.com/psf/black)
+* [emojify](https://github.com/iqbalansari/emacs-emojify)
+
 ## License
 
 See [LICENSE](LICENSE).
